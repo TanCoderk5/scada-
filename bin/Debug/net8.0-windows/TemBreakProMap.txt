@@ -1,0 +1,29 @@
+REG_MCCB_STATUS : 03 	: 8320	: Tình trạng On/Off;
+REG_U12 	: 03	: 4352 	: [U12]  32bit V 0.001:contentReference[oaicite:0]{index=0};
+REG_U23 	: 03	: 4354 	: [U23]  32bit V 0.001:contentReference[oaicite:1]{index=1};
+REG_U31  	: 03 	: 4356	: [U31]  32bit V 0.001:contentReference[oaicite:2]{index=2};
+REG_UAVG  	: 03 	: 437	: [Uavg] 32bit V 0.001 (trung bình 3 pha):contentReference[oaicite:3]{index=3};
+
+REG_I1  	: 03 	: 4392	: [I1] 32bit A 0.001:contentReference[oaicite:4]{index=4};
+REG_I2  	: 03 	: 4394	: [I2];
+REG_I3  	: 03 	: 4396	: [I3];
+REG_IAVG  	: 03 	: 4410	: ;
+
+REG_PTOT  	: 03 	: 4424	: [Ptot] 32bit W 1:contentReference[oaicite:5]{index=5};
+REG_QTOT  	: 03 	: 4432	: [Qtot] 32bit var 1:contentReference[oaicite:6]{index=6};
+REG_STOT  	: 03 	: 4440	: [Stot] 32bit VA 1;
+
+REG_PFTOT  	: 03 	: 4448	: [PFtot] 32bit, resolution 0.0001;
+REG_FREQ  	: 03 	: 4458	: [F] 32bit Hz 0.001:contentReference[oaicite:9]{index=9};
+REG_THDI1  	: 03 	: 4472	: [THD I1] 32bit % 0.1;
+
+REG_PASSWORD  	: 03 	: 8706	: 0x2202 – Password area;
+REG_CMD_STATUS	: 03 	: 8736	: // 0x2220;
+REG_CMD_TOKEN_HI: 03 	: 8737	: // 0x2221;
+REG_CMD_TOKEN_LO: 03 	: 8738	:// 0x2222;
+REG_CMD_ID      : 03 	: 8739	:// 0x2223;
+REG_CMD_LEN     : 03 	: 8740 	:// 0x2224;
+REG_CMD_PARAM   : 03 	: 8741	:// 0x2225;
+LAST_TOKEN_HI	: 03 	: 9737	: // 0x2221;
+LAST_TOKEN_LO	: 03 	: 9738	:// 0x2222;
+LAST_CMD_ID     : 03 	: 9739	:// 0x2223;

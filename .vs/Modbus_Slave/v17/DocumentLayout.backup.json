@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\frmtembreakpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmtembreakpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\frmtembreakpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmtembreakpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\frmrtu_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmrtu_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\frmrtu_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmrtu_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\convertdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:convertdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\frmrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\frmrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmrtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\frmrtu_multi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmrtu_multi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tnsol\\AppData\\Local\\Temp\\.vsdbgsrc\\7928d95f642bfd07a414d3705dad0e860c063886fac53ab04a605e6dd10742a3\\Socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|d:\\projectcoding\\modbus_rtu_tcp\\modbus_slave\\frmtcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmtcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\frmtcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{689A7486-12F9-41D1-A70B-501F8607E6A2}|Modbus_Slave.csproj|solutionrelative:frmtcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:421934398:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f96a0d64-71fd-316f-b663-924c78154f2a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRTU.cs [Design]",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU.cs",
+              "RelativeDocumentMoniker": "FrmRTU.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU.cs [Design]",
+              "RelativeToolTip": "FrmRTU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:55:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:19:51.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertData.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\ConvertData.cs",
+              "RelativeDocumentMoniker": "ConvertData.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\ConvertData.cs",
+              "RelativeToolTip": "ConvertData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:38:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRTU_Client.cs [Design]",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Client.cs",
+              "RelativeDocumentMoniker": "FrmRTU_Client.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Client.cs [Design]",
+              "RelativeToolTip": "FrmRTU_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:55:53.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTemBreakPro.cs [Design]",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTemBreakPro.cs",
+              "RelativeDocumentMoniker": "FrmTemBreakPro.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTemBreakPro.cs [Design]",
+              "RelativeToolTip": "FrmTemBreakPro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:33:00.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTemBreakPro.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTemBreakPro.cs",
+              "RelativeDocumentMoniker": "FrmTemBreakPro.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTemBreakPro.cs",
+              "RelativeToolTip": "FrmTemBreakPro.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:33:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRTU_Multi.cs [Design]",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Multi.cs",
+              "RelativeDocumentMoniker": "FrmRTU_Multi.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Multi.cs [Design]",
+              "RelativeToolTip": "FrmRTU_Multi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:55:56.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRTU_Client.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Client.cs",
+              "RelativeDocumentMoniker": "FrmRTU_Client.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU_Client.cs",
+              "RelativeToolTip": "FrmRTU_Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:15:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRTU.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU.cs",
+              "RelativeDocumentMoniker": "FrmRTU.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmRTU.cs",
+              "RelativeToolTip": "FrmRTU.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAlwLUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:51:31.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Socket.cs",
+              "DocumentMoniker": "C:\\Users\\tnsol\\AppData\\Local\\Temp\\.vsdbgsrc\\7928d95f642bfd07a414d3705dad0e860c063886fac53ab04a605e6dd10742a3\\Socket.cs",
+              "ToolTip": "C:\\Users\\tnsol\\AppData\\Local\\Temp\\.vsdbgsrc\\7928d95f642bfd07a414d3705dad0e860c063886fac53ab04a605e6dd10742a3\\Socket.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAmwJMBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:02:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTCP.cs",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTCP.cs",
+              "RelativeDocumentMoniker": "FrmTCP.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTCP.cs",
+              "RelativeToolTip": "FrmTCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:53:04.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTCP.cs [Design]",
+              "DocumentMoniker": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTCP.cs",
+              "RelativeDocumentMoniker": "FrmTCP.cs",
+              "ToolTip": "D:\\ProjectCoding\\Modbus_RTU_TCP\\Modbus_Slave\\FrmTCP.cs [Design]",
+              "RelativeToolTip": "FrmTCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:52:58.3Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
