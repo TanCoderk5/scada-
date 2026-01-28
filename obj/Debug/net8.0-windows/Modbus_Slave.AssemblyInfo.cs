@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modbus_Slave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f828ee9fbcfb53da30165ad7881930aae8848e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modbus_Slave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modbus_Slave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
